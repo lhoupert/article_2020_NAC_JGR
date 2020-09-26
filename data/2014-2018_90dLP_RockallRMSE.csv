@@ -1,5 +1,3 @@
-2014-2018 Root Mean Square Error of the 90-day low-pass-filtered transport in the Rockall Trough. 
-Data published in Houpert et al. (2020). Observed variability of the North Atlantic Current in the Rockall Trough from four years of mooring measurements. Journal of Geophysical Research: Oceans https://doi.org/10.1029/2020JC016403
 Year, Month, Day, Hour, Days since January 0 0000, RMSE Total Transport (Sv), RMSE Eastern Wedge Transport (Sv), RMSE Western Wedge Transport (Sv), RMSE Mid-Basin Transport (Sv)
 2014,6,1,0,7.3575e+05,NaN,NaN,NaN,NaN
 2014,6,1,12,7.3575e+05,NaN,NaN,NaN,NaN
